@@ -1,4 +1,3 @@
-using MyProject;
 Console.WriteLine("PRODUCTS"); 
 
 Console.WriteLine("-------------------------------------------------"); 
@@ -90,8 +89,6 @@ Console.WriteLine(product3);
 Console.WriteLine(product4); 
 
 Console.WriteLine(product5); 
-
- 
 
 Invoice invoice = new Invoice(); 
 
